@@ -40,7 +40,7 @@ export default function Contact() {
               </p>
               <a
                 href="mailto:danayyaswami9845@gmail.com"
-                className="text-xl font-semibold hover:text-indigo-400 transition"
+                className="text-sm font-semibold hover:text-indigo-400 transition"
               >
                 danayyaswami9845@gmail.com
               </a>
